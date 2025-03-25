@@ -18,5 +18,5 @@ The model is trained on **hand landmark data** and achieves **95% accuracy**.
 ## 📌 Installation
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone (https://github.com/RRGrania/HandGesture_Recognition/blob/main/README.md)
+git clone https://github.com/RRGrania/HandGesture_Recognition/blob/main/README.md
 cd HandGesture_Recognition
