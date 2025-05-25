@@ -3,7 +3,7 @@
 
 ## Project Overview
 This project implements **real-time hand gesture recognition** using **XGBoost**, **MediaPipe**, and **OpenCV**.  
-The model is trained on **hand landmark data** and achieves **95% accuracy**.
+The model is trained on **hand landmark data** and achieves **98% accuracy**.
 
 ---
 
