@@ -8,9 +8,12 @@ The model is trained on **hand landmark data** and achieves **98% accuracy**.
 ---
 
 ## Features
-- 🖐️ **Real-time hand gesture recognition** using a webcam.  
-- 🏆 **XGBoost for classification** (better than Random Forest & SVM).  
-- 🎯 **Hand tracking with MediaPipe** to extract landmark coordinates.  
-- ✅ **Optimized with Hyperparameter Tuning** for better accuracy.  
+-  Real-time Gesture Detection via webcam input.
+
+-  XGBoost Classifier – outperforms traditional models like Random Forest and SVM.
+
+- MediaPipe Hand Tracking – accurately extracts 21 hand landmarks per frame.
+
+-  Hyperparameter Tuning – enhances model performance and generalization.
 
 
